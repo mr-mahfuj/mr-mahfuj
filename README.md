@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████████████████████████ -->
-<!-- ░░  MAHFUJ // SYSTEM ONLINE // BUILD 1505                              ░░ -->
+<!-- ░░  MAHFUJ // SYSTEM ONLINE // BUILD 2.50                             ░░ -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -20,8 +20,7 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  UNIT DESIGNATION  :  Md. Mahfujur Rahman                   │
 │  ROLE              :  Software Engineer                     │
-│  STATUS            :  🟢 ONLINE — Pursuing B.Sc. in SWE    │
-│  PRIMARY SYSTEMS   :  React · FastAPI                       │
+│  STATUS            :  🟢 ONLINE — Pursuing B.Sc. in SWE     │
 │  UPLINK            :  bsse1505@gmail.com                    │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -94,7 +93,6 @@
   └────────────────────────────────────────┘
 ```
 
-> *"Ask me about React or FastAPI — I'll respond."*
 
 ---
 
