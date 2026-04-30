@@ -82,7 +82,6 @@
 
 ## `>> TRANSMIT`
 
-<img align="right" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave"/>
 
 ```
   ┌────────────────────────────────────────┐
