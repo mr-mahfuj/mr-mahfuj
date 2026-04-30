@@ -75,6 +75,6 @@
   <rect class="cursor cur" x="510" y="20" width="8" height="66" rx="2"/>
 
   <!-- Corner decorations -->
-  <text x="8" y="14" font-family="monospace" font-size="9" fill="#00ff8844">// BUILD_1505</text>
+  <text x="8" y="14" font-family="monospace" font-size="9" fill="#00ff8844">// BUILD_1.10</text>
   <text x="580" y="114" font-family="monospace" font-size="9" fill="#00ff8844">SWE //</text>
 </svg>
