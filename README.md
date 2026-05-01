@@ -6,7 +6,7 @@
 
 <img src="./name_anim.svg" width="700" alt="MAHFUJ animated"/>
 
-**`// MD. MAHFUJUR RAHMAN — SOFTWARE ENGINEER //`**
+**`// MD. MAHFUJUR RAHMAN — TRAINEE SOFTWARE ENGINEER //`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahfuj-1505&label=SYSTEM+PINGS&color=00ff88&style=flat-square)
 
