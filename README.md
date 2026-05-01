@@ -19,7 +19,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  UNIT DESIGNATION  :  Md. Mahfujur Rahman                   │
-│  ROLE              :  Software Engineer                     │
+│  ROLE              :  Trainee Software Engineer             │
 │  STATUS            :  🟢 ONLINE — Pursuing B.Sc. in SWE     │
 │  UPLINK            :  bsse1505@gmail.com                    │
 └─────────────────────────────────────────────────────────────┘
