@@ -1,108 +1,103 @@
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-<!-- ░░  MAHFUJ // SYSTEM ONLINE // BUILD 2.50                             ░░ -->
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<img src="./name_anim.svg" width="700" alt="MAHFUJ animated"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f2419,100:00ff88&height=190&section=header&text=MD.%20MAHFUJUR%20RAHMAN&fontSize=38&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Trainee%20Software%20Engineer%20%40%20Cefalo%20Bangladesh%20Limited&descAlignY=55&descSize=16&descColor=8fffc7" width="100%"/>
 
-**`// MD. MAHFUJUR RAHMAN — TRAINEE SOFTWARE ENGINEER //`**
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahfuj-1505&label=SYSTEM+PINGS&color=00ff88&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=%3E+whoami+%3D%3D+Software+Engineer;%3E+building+clean%2C+scalable+systems;%3E+currently+@+Cefalo+Bangladesh+Limited;%3E+status%3A+online+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="380" alt="scifi hacker gif"/>
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-bsse1505%40iit.du.ac.bd-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0D1117)](mailto:bsse1505@iit.du.ac.bd) [![GitHub](https://img.shields.io/badge/GitHub-mr--mahfuj-0D1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0D1117)](https://github.com/mr-mahfuj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mr--mahfuj-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0D1117)](https://linkedin.com/in/mr-mahfuj)
+
+<br/>
+
+
 
 </div>
 
----
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  UNIT DESIGNATION  :  Md. Mahfujur Rahman                   │
-│  ROLE              :  Trainee Software Engineer             │
-│  STATUS            :  🟢 ONLINE — Pursuing B.Sc. in SWE     │
-│  UPLINK            :  bsse1505@gmail.com                    │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
+<br/>
 
 ## `>> ABOUT`
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="developer at work"/>
-
-> *Passionate software engineer with a mission to architect clean, scalable, and meaningful digital systems. Currently navigating the Bachelors dimension of Software Engineering — building, learning, and shipping.*
-
-<br clear="right"/>
-
----
-
-## `>> WEAPONS OF CHOICE`
-
-### ◈ Languages
-
-| Codename | Proficiency |
-|---|---|
-| `C / C++` | ████████████░░ |
-| `Java` | ███████████░░░ |
-| `Python` | █████████░░░░░ |
-| `JavaScript` | ████████░░░░░░ |
-| `TypeScript` | ███████░░░░░░░ |
-
-### ◈ Frontend Arsenal
-
-<table><tr>
-<td><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=00FFFF"/></td>
-<td><img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/></td>
-<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></td>
-</tr></table>
-
-### ◈ Backend & Data
-
-<table><tr>
-<td><img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/></td>
-</tr></table>
-
-### ◈ Tools & Systems
-
-<table><tr>
-<td><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
-<td><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></td>
-</tr></table>
-
----
-
-## `>> TRANSMIT`
-
-
 ```
-  ┌────────────────────────────────────────┐
-  │  📡  OPEN CHANNEL                      │
-  │  ────────────────────────────────────  │
-  │  📧  bsse1505@iit.du.ac.bd             │
-  │  🔗  github.com/mr-mahfuj              │
-  └────────────────────────────────────────┘
+I'm a software engineer currently working as a Trainee Software Engineer
+at Cefalo Bangladesh Limited, while completing my B.Sc. in Software
+Engineering. I like building software that's clean, scalable, and made
+to last — from polished UIs to reliable backend systems.
 ```
 
+<br/>
 
----
+## `>> CURRENT_STATUS`
+
+```
++ 💼  Working as a Trainee Software Engineer @ Cefalo Bangladesh Limited
++ 🎓  Pursuing a B.Sc. in Software Engineering
++ 🌱  Leveling up in scalable backend architecture & TypeScript
++ 🤝  Open to collaborating on well-scoped, meaningful projects
+```
+
+<br/>
+
+## `>> TECH_STACK`
+
+**Languages**
+<br/>
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00ff88)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ff88)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ff88)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00ff88)
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00ff88)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00ff88)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00ff88)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00ff88)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=00ff88)
+
+**Backend & Data**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00ff88)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00ff88)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00ff88)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00ff88)
+
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00ff88)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00ff88)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00ff88)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00ff88)
+
+<br/>
+
+## `>> GITHUB_STATS`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Z5a/giphy.gif" width="100" alt="star"/>
+<img height="165" src="https://github-readme-stats-delta-beige.vercel.app/api?username=mr-mahfuj&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=8fffc7&count_private=true" />
+<img height="165" src="https://github-readme-stats-delta-beige.vercel.app/api/top-langs/?username=mr-mahfuj&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=8fffc7" />
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░  [ END OF FILE ] — MAHFUJ // BUILD 2.50 // 🟢 LIVE  ░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=mr-mahfuj&theme=merko&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<sub>`[ END OF FILE ] — thanks for stopping by 🟢`</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0f2419,100:0D1117&height=100&section=footer" width="100%"/>
